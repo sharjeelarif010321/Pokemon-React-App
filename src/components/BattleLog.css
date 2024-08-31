@@ -1,0 +1,27 @@
+ul {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  
+  li {
+    margin-bottom: 8px;
+  }
+  
+  strong {
+    font-weight: bold;
+  }
+  
+  .move {
+    font-weight: bold;
+  }
+  
+  .winning-move {
+    color: green;
+    font-weight: bold;
+  }
+  
+  .tie-move {
+    color: orange;
+    font-weight: bold;
+  }
+  
